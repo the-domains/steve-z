@@ -1,0 +1,28 @@
+name: Steve Z
+favicon: null
+layout_spectrum: 0.16577699012123048
+typography_spectrum: 0.8832034508232027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.032867555506527424
+  lightness: 0.842780347680673
+  saturation: 0.21412647957913578
+  rhythmicContrast: 0.6591065116226673
+purpose: []
